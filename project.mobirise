@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -2071,7 +2071,7 @@
         }
       ]
     },
-    "page1.html": {
+    "gallery.html": {
       "settings": {
         "title": "Gallery",
         "order": 1
